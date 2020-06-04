@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/find-your-friends/static/css/main.ea5330cf.chunk.css",
-    "main.js": "/find-your-friends/static/js/main.3622e629.chunk.js",
-    "main.js.map": "/find-your-friends/static/js/main.3622e629.chunk.js.map",
-    "runtime-main.js": "/find-your-friends/static/js/runtime-main.a03cce43.js",
-    "runtime-main.js.map": "/find-your-friends/static/js/runtime-main.a03cce43.js.map",
-    "static/css/2.036b41f9.chunk.css": "/find-your-friends/static/css/2.036b41f9.chunk.css",
-    "static/js/2.f9fe0209.chunk.js": "/find-your-friends/static/js/2.f9fe0209.chunk.js",
-    "static/js/2.f9fe0209.chunk.js.map": "/find-your-friends/static/js/2.f9fe0209.chunk.js.map",
-    "index.html": "/find-your-friends/index.html",
-    "precache-manifest.9f65973f3a30202fb474bef981d573da.js": "/find-your-friends/precache-manifest.9f65973f3a30202fb474bef981d573da.js",
-    "service-worker.js": "/find-your-friends/service-worker.js",
-    "static/css/2.036b41f9.chunk.css.map": "/find-your-friends/static/css/2.036b41f9.chunk.css.map",
-    "static/css/main.ea5330cf.chunk.css.map": "/find-your-friends/static/css/main.ea5330cf.chunk.css.map",
-    "static/js/2.f9fe0209.chunk.js.LICENSE.txt": "/find-your-friends/static/js/2.f9fe0209.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/find-your-friends/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/find-your-friend/static/css/main.b72f0e10.chunk.css",
+    "main.js": "/find-your-friend/static/js/main.6ed8d778.chunk.js",
+    "main.js.map": "/find-your-friend/static/js/main.6ed8d778.chunk.js.map",
+    "runtime-main.js": "/find-your-friend/static/js/runtime-main.f83493ac.js",
+    "runtime-main.js.map": "/find-your-friend/static/js/runtime-main.f83493ac.js.map",
+    "static/css/2.036b41f9.chunk.css": "/find-your-friend/static/css/2.036b41f9.chunk.css",
+    "static/js/2.f9fe0209.chunk.js": "/find-your-friend/static/js/2.f9fe0209.chunk.js",
+    "static/js/2.f9fe0209.chunk.js.map": "/find-your-friend/static/js/2.f9fe0209.chunk.js.map",
+    "index.html": "/find-your-friend/index.html",
+    "precache-manifest.63ecc73824f2a06f999570c289f61dfe.js": "/find-your-friend/precache-manifest.63ecc73824f2a06f999570c289f61dfe.js",
+    "service-worker.js": "/find-your-friend/service-worker.js",
+    "static/css/2.036b41f9.chunk.css.map": "/find-your-friend/static/css/2.036b41f9.chunk.css.map",
+    "static/css/main.b72f0e10.chunk.css.map": "/find-your-friend/static/css/main.b72f0e10.chunk.css.map",
+    "static/js/2.f9fe0209.chunk.js.LICENSE.txt": "/find-your-friend/static/js/2.f9fe0209.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/find-your-friend/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.a03cce43.js",
+    "static/js/runtime-main.f83493ac.js",
     "static/css/2.036b41f9.chunk.css",
     "static/js/2.f9fe0209.chunk.js",
-    "static/css/main.ea5330cf.chunk.css",
-    "static/js/main.3622e629.chunk.js"
+    "static/css/main.b72f0e10.chunk.css",
+    "static/js/main.6ed8d778.chunk.js"
   ]
 }
